@@ -6,7 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src/main/java"/>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0"/>
 	<classpathentry kind="lib" path="D:/0607JOO/resouce/javaSDK-2.2.jar"/>
@@ -15,5 +14,6 @@
 	<classpathentry kind="lib" path="D:/0607JOO/resouce/jstl.jar"/>
 	<classpathentry kind="lib" path="D:/0607JOO/resouce/mail-1.4.7.jar"/>
 	<classpathentry kind="lib" path="D:/0607JOO/resouce/standard.jar"/>
+	<classpathentry kind="lib" path="D:/0607JOO/resouce/cos.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
